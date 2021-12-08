@@ -1,6 +1,6 @@
 # My first Solana NFT Drop Project thanks to buildspace [Watch on vercel](https://nft-drop-starter-project-gamma-tan.vercel.app/)
 
-![example](ezample.gif)
+![example](example.gif)
 
 # buildspace Solana NFT Drop Project
 ### Welcome 👋
