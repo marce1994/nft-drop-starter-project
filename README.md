@@ -1,4 +1,4 @@
-# My first Solana NFT Drop Project thanks to buildspace [Watch on vercel](https://nft-drop-starter-project-gamma-tan.vercel.app/)
+# My first Solana NFT Drop Project thanks to buildspace [Preview on vercel](https://nft-drop-starter-project-gamma-tan.vercel.app/)
 
 ![example](example.gif)
 
